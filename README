@@ -1,0 +1,26 @@
+0. About
+
+Zadanie z etapu P2 zaliczania pracowni z Systemów operacyjnych.
+
+Rozwiązanie problemu śpiącego golibrody - jednego z klasycznych
+problemów synchronizacji procesów.
+
+Wykonane przez Mateusza Sznura (msznura@gmail.com).
+
+
+1. Building
+
+To build the program, execute:
+
+make
+
+
+2. Running 
+
+To run the program, execute:
+
+make run
+
+or directly:
+
+./pracownia-1
